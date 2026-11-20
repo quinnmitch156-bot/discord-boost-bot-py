@@ -1,15 +1,15 @@
 {
-    "capmonster_key": "",
+    "capresolver_key": "CAP-D9C873C3560A50C5F44D23CF5D965FE32C62C12C010B8EABC71CCD1F58E93945",
     "proxyless": true,
     "change_server_nick": false,
     "change_server_bio": true,
     "bio": "",
     "nickname": "",
-    "token": "",
+    "token": "MTU3MzI1MjQ3NTgyODQ0NTE5NA.G80R_w.58wVisiFwS6M4xs_4HllctmlNHOg_VYKcBqtqg",
     "guild": [
         
     ],
-    "owner": "",
+    "owner": "439369086791581696",
     "whitelisted": [
         "",
         ""
